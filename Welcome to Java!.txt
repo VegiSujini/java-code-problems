@@ -8,4 +8,13 @@ https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true
 
 Solution File :
 
-https://www.hackerrank.com/challenges/welcome-to-java/copy-from/394794690
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        System.out.print("Hello, World.\nHello, Java.");
+    }
+}
