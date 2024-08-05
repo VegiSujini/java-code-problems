@@ -11,7 +11,7 @@ The problems in this repository are from the [Java](https://www.hackerrank.com/d
 ## Problems Solved
 -----------------
 
-* [List of problems solved](#[problems-solved](https://www.hackerrank.com/domains/java?filters%5Bstatus%5D%5B%5D=solved))
+* [List of problems solved][problems-solved](https://www.hackerrank.com/domains/java?filters%5Bstatus%5D%5B%5D=solved)
 
 ### Problems Solved
 -------------------
