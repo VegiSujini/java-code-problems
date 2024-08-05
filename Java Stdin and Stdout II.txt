@@ -1,0 +1,18 @@
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        Scanner sin = new Scanner(System.in);
+        int num = sin.nextInt();
+        double doub = sin.nextDouble();
+        sin.nextLine();
+        String str = sin.nextLine();
+        System.out.println("String: "+str);
+        System.out.println("Double: "+doub);
+        System.out.println("Int: "+num);
+        sin.close();
+    }
+}
