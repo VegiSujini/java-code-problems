@@ -1,3 +1,14 @@
+
+Problem Name :
+
+Java Stdin and Stdout II
+
+Problem URL :
+
+https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true
+
+Solution File :
+
 import java.io.*;
 import java.util.*;
 
