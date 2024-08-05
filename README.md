@@ -16,8 +16,7 @@ The problems in this repository are from the [Java](https://www.hackerrank.com/d
 ### Problems Solved
 -------------------
 
-| Problem Name | Problem URL | Solution File |
+| Problem Name | Problem URL | Solution  |
 | --- | --- | --- |
-| Problem 1 | [Problem 1 URL](https://www.hackerrank.com/challenges/problem-1) | [Problem1.java](Problem1.java) |
-| Problem 2 | [Problem 2 URL](https://www.hackerrank.com/challenges/problem-2) | [Problem2.java](Problem2.java) |
+| Welcome to java | [Problem 1 URL](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) | [Welcome to java solution] |
 | ... | ... | ... |
