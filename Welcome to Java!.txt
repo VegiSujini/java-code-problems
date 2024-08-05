@@ -1,37 +1,11 @@
+Problem Name :
 
-Question:
+Welcome to Java!
 
-Welcome to the world of Java! In this challenge, we practice printing to stdout.
+Problem URL :
 
-The code stubs in your editor declare a Solution class and a main method. Complete the main method by copying the two lines of code below and pasting them inside the body of your main method.
+https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true
 
-System.out.println("Hello, World.");
-System.out.println("Hello, Java.");
-Input Format
+Solution File :
 
-There is no input for this challenge.
-
-Output Format
-
-You must print two lines of output:
-
-Print Hello, World. on the first line.
-Print Hello, Java. on the second line.
-Sample Output
-
-Hello, World.
-Hello, Java.
-
-
-SOLUTION :
-
-import java.io.*;
-import java.util.*;
-
-public class Solution {
-
-    public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-        System.out.print("Hello, World.\nHello, Java.");
-    }
-}
+https://www.hackerrank.com/challenges/welcome-to-java/copy-from/394794690
