@@ -13,29 +13,17 @@ class JavaSubstring {
 
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
-        String A = sc.next();
-
-        int n = A.length();
-        char oa[] = new char[n];
-        char ra[] = new char[n];
-        for (int i = 0; i < n; i++) {
-            oa[i] = A.charAt(i);
+        Scanner in = new Scanner(System.in);
+        String S = in.next();
+        int start = in.nextInt();
+        int end = in.nextInt();
+        int len = S.length();
+        char c[] = new char[len];
+        for (int i = 0; i < len; i++) {
+            c[i] = S.charAt(i);
         }
-        for (int i = n - 1, k = 0; i >= 0; i--) {
-
-            ra[k++] = A.charAt(i);
+        for (int i = start; i < end; i++) {
+            System.out.print(c[i]);
         }
-
-        int l = 0;
-        for (int i = 0; i < n; i++) {
-            if (oa[i] == ra[i]) {
-                l++;
-            }
-        }
-        if (l == n)
-            System.out.print("Yes");
-        else
-            System.out.print("No");
     }
 }
