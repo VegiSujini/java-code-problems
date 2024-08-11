@@ -4,7 +4,7 @@
 
 // Problem URL :
 
-// https://www.hackerrank.com/challenges/java-string-reverse/problem?isFullScreen=true
+//https://www.hackerrank.com/challenges/java-substring/problem?isFullScreen=true
 
 // Solution File :
 import java.util.Scanner;
