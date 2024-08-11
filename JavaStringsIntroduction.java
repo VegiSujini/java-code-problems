@@ -4,7 +4,7 @@
 
 // Problem URL :
 
-// https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/java-strings-introduction/problem?isFullScreen=true
 
 // Solution File :
 
